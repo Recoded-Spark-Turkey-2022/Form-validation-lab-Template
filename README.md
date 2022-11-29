@@ -1,6 +1,7 @@
 ## Instructions:
 
-Create a Form that allows people to register for the website.
+Create the same Form that allows people to register for the website.
+This time use the [React Hook Form library](https://react-hook-form.com/)
 
 - The form should include a User name.
   `This should not be empty`
